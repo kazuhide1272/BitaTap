@@ -1,0 +1,13 @@
+Build
+DerivedDataCache
+Intermediate
+Saved
+.vs
+*.VC.db
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
